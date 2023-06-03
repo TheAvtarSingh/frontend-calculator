@@ -14,7 +14,7 @@ function Transaction() {
 
   const loadData = async () => {
     let response = await fetch(
-      "https:/backend-calculator.vercel.app/api/getData",
+      "https://backend-calculator.vercel.app/api/getData",
       {
         method: "GET",
         headers: {
@@ -36,7 +36,7 @@ function Transaction() {
 
   const deleteData = async () => {
     const res = await fetch(
-      "https:/backend-calculator.vercel.app/api/deleteData",
+      "https://backend-calculator.vercel.app/api/deleteData",
       {
         method: "DELETE",
         headers: {

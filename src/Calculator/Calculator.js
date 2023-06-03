@@ -31,7 +31,7 @@ function Calculator() {
 
   const AddTransaction = async (e) => {
     e.preventDefault();
-    fetch("https:/backend-calculator.vercel.app/api/addData", {
+    fetch("https://backend-calculator.vercel.app/api/addData", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
