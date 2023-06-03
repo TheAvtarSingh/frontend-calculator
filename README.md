@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# MERN Stack Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Frontend
 
-## Available Scripts
+![image](https://github.com/TheAvtarSingh/frontend-calculator/assets/88712571/89af7471-19e4-4caa-b4d2-ee0c5de4755e)
 
-In the project directory, you can run:
+![image](https://github.com/TheAvtarSingh/frontend-calculator/assets/88712571/c4fada1f-b5da-440f-a27a-c0fa5dcc257a)
 
-### `npm start`
+![image](https://github.com/TheAvtarSingh/frontend-calculator/assets/88712571/f089ef22-3dcb-4cac-a098-8aea7351e389)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/TheAvtarSingh/frontend-calculator/assets/88712571/f05de82a-7ad6-4180-a3a5-862ee6c8ecab)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://github.com/TheAvtarSingh/frontend-calculator/assets/88712571/617ef7b6-f67f-4b42-929a-891586629752)
 
-### `npm test`
+![image](https://github.com/TheAvtarSingh/frontend-calculator/assets/88712571/79b08465-cb5d-4588-aa97-b4cf8560dae5)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/TheAvtarSingh/frontend-calculator/assets/88712571/b1ab52fc-42c9-4da6-8695-f14aab7232bc)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Backend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/TheAvtarSingh/frontend-calculator/assets/88712571/32eeeda2-37b7-4e3a-8f34-c20ec1f3c65b)
