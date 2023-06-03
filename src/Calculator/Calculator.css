@@ -1,0 +1,35 @@
+* {
+  font-family: "Rubik";
+}
+.calculator-color {
+  background-color: rgba(87, 80, 82, 255);
+}
+.row-color {
+  background-color: rgba(254, 159, 9, 255);
+}
+.side-row-color {
+  background-color: rgba(130, 123, 123, 255);
+}
+.upper-row-color {
+  background-color: rgba(107, 98, 98, 255);
+}
+.button-size-height {
+  height: 10vh;
+}
+.font-size-height {
+  font-size: 5vh;
+}
+.icon-border {
+  border-radius: 35px;
+  border: 2px solid rgba(87, 80, 82, 255);
+}
+.icon-border-change {
+  border-radius: 10px;
+  border: 2px solid rgba(87, 80, 82, 255);
+}
+.border-inner-box {
+  box-shadow: 10px 10px 5px rgb(255, 255, 255);
+}
+.shadow-icon {
+  box-shadow: 3px 3px 11px rgba(66, 66, 66, 255);
+}
